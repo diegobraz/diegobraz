@@ -1,5 +1,6 @@
-### Hi there 👋
 
+### hello! I'am Diego Braz 👋
+<p>I have a degree in Systems Analysis and Development, I'm passionate about technology,currently i have been working with mobile development.</p>
 <!--
 **diegobraz/diegobraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
